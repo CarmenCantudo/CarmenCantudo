@@ -24,5 +24,6 @@ Do you like my profile and want to build your own? It's very simple. GitHub rece
 </ol>
 And that's about it. The <code>README.md</code> of your profile readme repository will be displayed on your profile page.
 <hr>
-[![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarmenCantudo)](https://github.com/CarmenCantudo/github-readme-stats)<br>
+[![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarmenCantudo)](https://github.com/CarmenCantudo/github-readme-stats)
+<br>
 Want to get your own stats? Click [here!](https://github.com/anuraghazra/github-readme-stats)
