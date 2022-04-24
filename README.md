@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+![messagif](https://user-images.githubusercontent.com/28003516/164985825-7bce3117-21a4-4cc6-bf48-6e8b3ee0b584.gif)
 
 <!--
 **CarmenCantudo/CarmenCantudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,9 +8,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Portfolio Project 1: HTML/CSS Essentials
-- 🌱 I’m currently learning Networking and Systems Security from CCT College Dublin & Software Development (E-commerce Applications) from Code Institute
+- 🌱 I’m currently learning Networking and Systems Security & Software Development
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/ccarmenccm/)
+- 😀 I like to crochet, code, read, and draw in my free time.
 - ⚡ Fun fact: I'm a huge fan of Harry Potter
 
 <hr>
