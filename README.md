@@ -31,4 +31,4 @@ And that's about it. The <code>README.md</code> of your profile readme repositor
 <br>
 Want to get your own stats? Click [here!](https://github.com/anuraghazra/github-readme-stats)
 
-![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=CarmenCantudo.visitor-badge&logo=GitHub&color=%3C55ACB7%3E)
+![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=CarmenCantudo.visitor-badge.reloaded&logo=GitHub&color=55acb7&text=VISITORS)
