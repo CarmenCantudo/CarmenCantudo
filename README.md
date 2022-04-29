@@ -1,11 +1,4 @@
-<!-- ### Hi there 👋 -->
-![messagif](https://user-images.githubusercontent.com/28003516/164985825-7bce3117-21a4-4cc6-bf48-6e8b3ee0b584.gif)
-
-<!--
-**CarmenCantudo/CarmenCantudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!-- Here are some ideas to get you started: -->
+![Project Name](https://user-images.githubusercontent.com/28003516/165968831-b380ea24-811d-4330-a796-84349d5a27b9.gif)
 
 - 🔭 I’m currently working on my Portfolio Project 1: HTML/CSS Essentials
 - 🌱 I’m currently learning Networking and Systems Security & Software Development
