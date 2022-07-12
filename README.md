@@ -1,6 +1,6 @@
 ![Project Name](https://user-images.githubusercontent.com/28003516/165968831-b380ea24-811d-4330-a796-84349d5a27b9.gif)
 
-- 🔭 I’m currently working on my Portfolio Project 1: HTML/CSS Essentials
+- 🔭 I’m currently working on my Portfolio Project 3: Python Essentials
 - 🌱 I’m currently learning Networking and Systems Security & Software Development
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/ccarmenccm/)
