@@ -1,4 +1,5 @@
-![Project Name](https://user-images.githubusercontent.com/28003516/165968831-b380ea24-811d-4330-a796-84349d5a27b9.gif)
+![Intro](https://user-images.githubusercontent.com/28003516/178810320-709d08be-29b7-486d-b1a5-89ee999e4144.gif)
+
 
 - 🔭 I’m currently working on my Portfolio Project 3: Python Essentials
 - 🌱 I’m currently learning Networking and Systems Security & Software Development
