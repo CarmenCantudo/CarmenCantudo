@@ -10,7 +10,48 @@
 
 <hr>
 
-<h4 align="center">My Tech Stacks:</h4>
+<h3 align="center">My Portfolio:</h3>
+<h5 align="center">Code Institute Projects:</h5>
+<p align="center"> 
+  <a href="https://carmencantudo.github.io/bookclub/" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/bookclub.PNG" width="20%" />
+    <a/>&nbsp;
+  <a href="https://carmencantudo.github.io/rock-paper-scissors-lizard-spock" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/rock-paper-scissors.PNG" width="20%" />
+    <a/>&nbsp;
+  <a href="https://a-lost-dragons-quest.herokuapp.com/" target="_blank">
+  <img src="https://github.com/CarmenCantudo/lost-dragon-quest/raw/main/assets/testing/am-i-responsive.png" width="20%" />
+    <a/>&nbsp;
+</p>
+<br>
+<h5 align="center">Work Projects:</h5>
+<p align="center"> 
+  <a href="https://carmencantudo.github.io/SpanishMortgages/" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/Mortgage-expenses.jpg" width="20%" />
+    <a/>&nbsp;
+  <a href="https://carmencantudo.github.io/BancoPopular/en/" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/Reclama-tus-acciones.jpg" width="20%" />
+    <a/>&nbsp;
+  <a href="https://carmencantudo.github.io/Tramiuris/en/" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/Tramiuris.png" width="20%" />
+    <a/>&nbsp;
+  <a href="https://carmencantudo.github.io/Fers/en/" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/Fers.png" width="20%" />
+    <a/>&nbsp;
+  <a href="https://www.balmsadvisory.com/en/" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/Balms-advisory.png" width="20%" />
+    <a/>&nbsp;
+  <a href="https://consumidoresunidos.es/" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/CUE.png" width="20%" />
+    <a/>&nbsp;
+  <a href="https://carmencantudo.github.io/youll-dream-again/en" target="_blank">
+  <img src="https://carmencantudo.github.io/assets/img/youlldreamagain.png" width="20%" />
+    <a/>
+</p>
+
+<hr>
+
+<h3 align="center">My Tech Stacks:</h3>
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
