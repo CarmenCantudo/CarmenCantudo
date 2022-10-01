@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my Portfolio Project 4: Full-Stack Toolkit. Main Technologies: HTML, CSS, JavaScript, Python+Django, Relational database (MySQL or Postgres)
 - 🌱 I’m currently learning Networking and Systems Security & Software Development
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/ccarmenccm/)
+- 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/ccarmenccm/) [LinkedIn](https://www.linkedin.com/in/carmen-cantudo-moreno/)
 - 😀 I like to crochet, code, read, and draw in my free time.
 - ⚡ Fun fact: I'm a huge fan of Harry Potter
 
