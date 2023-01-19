@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Networking and Systems Security & Software Development
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/ccarmenccm/) [LinkedIn](https://www.linkedin.com/in/carmen-cantudo-moreno/)
-- 😀 I like to crochet, code, read, and draw in my free time.
-- ⚡ Fun fact: I'm a huge fan of Harry Potter
+- 😀 I like to read, code, crochet, and draw in my free time.
 
 <hr>
 
@@ -78,4 +77,4 @@
 
 <br>
 
-![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=CarmenCantudo.visitor-badge.reloaded&logo=GitHub&color=55acb7&text=VISITORS)
+[![An image of @carmencantudo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carmencantudo)](https://holopin.io/@carmencantudo)
