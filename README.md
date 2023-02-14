@@ -1,8 +1,8 @@
 ![Intro](https://user-images.githubusercontent.com/28003516/178810320-709d08be-29b7-486d-b1a5-89ee999e4144.gif)
 
 
-- 💻 I’m currently working on my Portfolio Project 5: E-commerce Applications. Main Technologies: HTML, CSS, JavaScript, Python+Django, Relational database (MySQL or Postgres), Stripe payments
-- 🔐 I just finished a Dip in Networking and Systems Security & Software Development
+- 💻 I’m currently working on my Portfolio Project 5: E-commerce Applications. Main Technologies: HTML, CSS, JavaScript, Python+Django, Relational database (MySQL or Postgres), Stripe payments from [Code Institute](https://codeinstitute.net/ie/)
+- 🔐 I just finished a Dip in Networking and Systems Security
 - 💬 Ask me about Programming
 - 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/artebycarmen/) [LinkedIn](https://www.linkedin.com/in/carmen-cantudo-moreno/)
 - 😀 I like to read, code, crochet, and draw in my free time.
