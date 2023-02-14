@@ -1,10 +1,10 @@
 ![Intro](https://user-images.githubusercontent.com/28003516/178810320-709d08be-29b7-486d-b1a5-89ee999e4144.gif)
 
 
-- 🔭 I’m currently working on my Portfolio Project 4: Full-Stack Toolkit. Main Technologies: HTML, CSS, JavaScript, Python+Django, Relational database (MySQL or Postgres)
-- 🌱 I’m currently learning Networking and Systems Security & Software Development
-- 💬 Ask me about Web Development
-- 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/ccarmenccm/) [LinkedIn](https://www.linkedin.com/in/carmen-cantudo-moreno/)
+- 💻 I’m currently working on my Portfolio Project 5: E-commerce Applications. Main Technologies: HTML, CSS, JavaScript, Python+Django, Relational database (MySQL or Postgres), Stripe payments
+- 🔐 I just finished a Dip in Networking and Systems Security & Software Development
+- 💬 Ask me about Programming
+- 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/artebycarmen/) [LinkedIn](https://www.linkedin.com/in/carmen-cantudo-moreno/)
 - 😀 I like to read, code, crochet, and draw in my free time.
 
 <hr>
@@ -40,7 +40,7 @@
   <a href="https://carmencantudo.github.io/Fers/en/" target="_blank">
   <img src="https://carmencantudo.github.io/assets/img/Fers.png" width="20%" />
     <a/>&nbsp;
-  <a href="https://www.balmsadvisory.com/en/" target="_blank">
+  <a href="https://carmencantudo.github.io/Balms-Advisory/en/" target="_blank">
   <img src="https://carmencantudo.github.io/assets/img/Balms-advisory.png" width="20%" />
     <a/>&nbsp;
   <a href="https://consumidoresunidos.es/" target="_blank">
@@ -68,7 +68,9 @@
 <br>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a> 
-<a href="[https://www.markdownguide.org/](https://sass-lang.com/)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40"/> </a>
+<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://materializecss.com/res/materialize.svg" alt="materializecss" width="40" height="40"/> </a>
 </p>
 
 <hr>
