@@ -79,4 +79,14 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarmenCantudo/CarmenCantudo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarmenCantudo/CarmenCantudo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarmenCantudo/CarmenCantudo/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
+
+<br>
+
 [![An image of @carmencantudo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carmencantudo)](https://holopin.io/@carmencantudo)
