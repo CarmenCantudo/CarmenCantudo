@@ -13,10 +13,10 @@
 <h5 align="center">Code Institute Projects:</h5>
 <p align="center"> 
   <a href="https://carmencantudo.github.io/bookclub/" target="_blank">
-  <img src="https://carmencantudo.github.io/assets/img/bookclub.PNG" width="20%" />
+  <img src="https://carmencantudo.github.io/assets/img/bookclub.png" width="20%" />
     <a/>&nbsp;
   <a href="https://carmencantudo.github.io/rock-paper-scissors-lizard-spock" target="_blank">
-  <img src="https://carmencantudo.github.io/assets/img/rock-paper-scissors.PNG" width="20%" />
+  <img src="https://carmencantudo.github.io/assets/img/rock-paper-scissors.png" width="20%" />
     <a/>&nbsp;
   <a href="https://a-lost-dragons-quest.herokuapp.com/" target="_blank">
   <img src="https://github.com/CarmenCantudo/lost-dragon-quest/raw/main/assets/testing/am-i-responsive.png" width="20%" />
