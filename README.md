@@ -1,8 +1,9 @@
 ![Intro](https://user-images.githubusercontent.com/28003516/178810320-709d08be-29b7-486d-b1a5-89ee999e4144.gif)
 
 
-- 💻 I’m currently working on my Portfolio Project 5: E-commerce Applications. Main Technologies: HTML, CSS, JavaScript, Python+Django, Relational database (MySQL or Postgres), Stripe payments from [Code Institute](https://codeinstitute.net/ie/)
-- 🔐 I just finished a Dip in Networking and Systems Security
+- 💪 I’m currently working on my job search.
+- 💻 I just finished my last Project from [Code Institute](https://codeinstitute.net/ie/) and waiting for the results.
+- 🔐 I have a Dip in Networking and Systems Security from CCT College Dublin.
 - 💬 Ask me about Programming
 - 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/artebycarmen/) [LinkedIn](https://www.linkedin.com/in/carmen-cantudo-moreno/)
 - 😀 I like to read, code, crochet, and draw in my free time.
@@ -18,11 +19,15 @@
   <a href="https://carmencantudo.github.io/rock-paper-scissors-lizard-spock" target="_blank">
   <img src="https://carmencantudo.github.io/assets/img/rock-paper-scissors.png" width="20%" />
     <a/>&nbsp;
+    <br>
   <a href="https://a-lost-dragons-quest.herokuapp.com/" target="_blank">
   <img src="https://github.com/CarmenCantudo/lost-dragon-quest/raw/main/assets/testing/am-i-responsive.png" width="20%" />
     <a/>&nbsp;
   <a href="https://fillyourbelly.herokuapp.com/" target="_blank">
   <img src="https://github.com/CarmenCantudo/recipes/blob/main/static/testing/amiresponsive.png" width="20%" />
+    <a/>&nbsp;
+  <a href="https://mi-primera-cajita.herokuapp.com/" target="_blank">
+  <img src="https://github.com/CarmenCantudo/mi-primera-cajita/raw/main/static/testing/am-i-responsive.jpg" width="20%" />
     <a/>&nbsp;
 </p>
 <br>
