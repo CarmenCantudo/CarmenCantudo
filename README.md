@@ -2,7 +2,7 @@
 
 
 - 💪 I’m currently working on my job search.
-- 💻 I just finished my last Project from [Code Institute](https://codeinstitute.net/ie/) and waiting for the results.
+- 💻 I have a Dip in Fullstack Software Development (e-Commerce applications) from [Code Institute](https://codeinstitute.net/ie/).
 - 🔐 I have a Dip in Networking and Systems Security from CCT College Dublin.
 - 💬 Ask me about Programming
 - 📫 How to reach me: [Twitter](https://twitter.com/CarmenCantudo) [Instagram](https://www.instagram.com/artebycarmen/) [LinkedIn](https://www.linkedin.com/in/carmen-cantudo-moreno/)
